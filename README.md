@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> FrontEnd Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li>I'm aiming for Full Stack Development </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li><br/>I'm aiming for Full Stack Development </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
