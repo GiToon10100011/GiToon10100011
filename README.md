@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> FrontEnd Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li><br/>🎯 I'm aiming for Full Stack Development <br> <a href="https://gitoon10100011.github.io/" target="_blank">This</a> is my Tech Blog that im currently working on nowadays. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li><br/>🎯 I'm aiming for Full Stack Development <br> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -58,4 +58,12 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiToon10100011&layout=compact&bg_color=bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
+---
+
+# Blog
+<a href="https://gitoon10100011.github.io/" target="_blank">https://gitoon10100011.github.io/</a>
+
+
+🔧 Currenly W.I.P.
     
