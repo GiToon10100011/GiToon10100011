@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> FrontEnd Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li><br/>🎯 I'm aiming for Full Stack Development <br> 
-    <b>⭐️ 현재 병역특례 산업기능요원으로 프론트엔트 엔지니어 준비중입니다.</b>
+    <b>⭐️ 현재 <u>병역특례 산업기능요원</u>으로 프론트엔트 엔지니어 준비중입니다.</b>
     </div> 
     </div>
     <div style="text-align: left;">
