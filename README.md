@@ -63,8 +63,10 @@
 ---
 
 # Blog
+
+🔧 **Currently W.I.P.**
+
 <a href="https://gitoon10100011.github.io/" target="_blank">https://gitoon10100011.github.io/</a>
 
 
-🔧 Currenly W.I.P.
     
