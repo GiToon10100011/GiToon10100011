@@ -24,7 +24,7 @@ const developer = {
 };
 ```
 
-</div>
+</div
 </div>
 
 <p align="center">
