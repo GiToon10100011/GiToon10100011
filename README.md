@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&text=Welcome%20to%20my%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=38&desc=Frontend%20Developer%20%7C%20산업기능요원&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&text=Welcome%20to%20my%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=16" />
 </div>
 
 <div align="center">
@@ -19,13 +19,17 @@ const developer = {
   name: "전진우",
   interests: ["Frontend", "Backend", "InfoSec", "FinTech", "Web Security"],
   currentlyLearning: ["Next.js", "TypeScript"],
-  current goal: "Full Stack Development",
+  currentGoal: "Full Stack Development",
   status: "산업기능요원 준비중 🎯"
 };
 ```
 
-</div
 </div>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GiToon&style=flat-square&color=blueviolet" alt="visit counter" />
+</p>
 
 ## 🛠️ **Tech Stack**
 
@@ -163,9 +167,9 @@ Frontend Mastery → Backend Integration → Full Stack → DevOps → DevSecOps
 
 <a href="https://gitoon10100011.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-667eea?style=for-the-badge&logo=github&logoColor=white&link=https://gitoon10100011.github.io/"/>
-</a><br>
+</a><br><br>
 
-*개발 여정과 학습 내용을 마치 문서형식으로 정리하여 MDN처럼 누구나 접근할 수 있고 확인할 수 있는 공간을 준비중입니다.*
+<sub style="color: #6a737d;">개발 여정과 학습 내용을 마치 문서형식으로 정리하여 MDN처럼 누구나 접근할 수 있고 확인할 수 있는 공간을 준비중입니다.</sub>
 
 </div>
 
@@ -185,3 +189,9 @@ Frontend Mastery → Backend Integration → Full Stack → DevOps → DevSecOps
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
+
+## Whenever you're bored, feel free to play this little cute game :)
+
+<p align="center">
+  <img src="https://github.com/GiToon/GiToon/raw/output/github-contribution-grid-snake.svg" />
+</p>
