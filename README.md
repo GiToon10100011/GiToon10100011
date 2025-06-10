@@ -143,6 +143,8 @@ const developer = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiToon10100011&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiToon10100011&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true"/>
+
 </div>
 
 ## 🌟 **Highlights**
