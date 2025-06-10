@@ -190,7 +190,7 @@ Frontend Mastery → Backend Integration → Full Stack → DevOps → DevSecOps
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
 
-## Whenever you're bored, feel free to play this little cute game :)
+## Before you go, Check out my cute little snake 😎
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake-dark.svg">
