@@ -1,124 +1,187 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> FrontEnd Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 👋 Hi, I’m @GiToon10100011</li><br/>👀 I’m interested in FrontEnd/BackEnd/InfoSec/FinTech Development</li><br/>🌱 I’m currently learning Next.js/Typescript</li><br/>🎯 I'm aiming for Full Stack Development <br> 
-    <b>⭐️ 현재 <u>병역특례 산업기능요원</u>으로 프론트엔트 엔지니어 준비중입니다.</b>
-    </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
-    <div style="margin: ; text-align: left;" "text-align: left;">
-        <h3>Favorite Browsers</h3>
-        <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
-        <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white">
-        <h3>Favorite Editors</h3>
-        <img src="https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkN1cnNvcjwvdGl0bGU+PHBhdGggZD0iTTExLjkyNSAyNGwxMC40MjUtNi0xMC40MjUtNkwxLjUgMThsMTAuNDI1IDZ6IiBmaWxsPSJ1cmwoI2xvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCkiPjwvcGF0aD48cGF0aCBkPSJNMjIuMzUgMThWNkwxMS45MjUgMHYxMmwxMC40MjUgNnoiIGZpbGw9InVybCgjbG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xKSI+PC9wYXRoPjxwYXRoIGQ9Ik0xMS45MjUgMEwxLjUgNnYxMmwxMC40MjUtNlYweiIgZmlsbD0idXJsKCNsb2JlLWljb25zLWN1cnNvcnVuZGVmaW5lZC1maWxsLTIpIj48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZMMTEuOTI1IDI0VjEyTDIyLjM1IDZ6IiBmaWxsPSIjNTU1Ij48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZsLTEwLjQyNSA2TDEuNSA2aDIwLjg1eiIgZmlsbD0iIzAwMCI+PC9wYXRoPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCIgeDE9IjExLjkyNSIgeDI9IjExLjkyNSIgeTE9IjEyIiB5Mj0iMjQiPjxzdG9wIG9mZnNldD0iLjE2IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9Ii4zOSI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY1OCIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuOCI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0ibG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xIiB4MT0iMjIuMzUiIHgyPSIxMS45MjUiIHkxPSI2LjAzNyIgeTI9IjEyLjE1Ij48c3RvcCBvZmZzZXQ9Ii4xODIiIHN0b3AtY29sb3I9IiMwMDAiIHN0b3Atb3BhY2l0eT0iLjMxIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIuNzE1IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9IjAiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMiIgeDE9IjExLjkyNSIgeDI9IjEuNSIgeTE9IjAiIHkyPSIxOCI+PHN0b3Agc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuNiI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY2NyIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuMjIiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=">
-        <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-        <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-        <h3>Skills</h3>
-        <strong>CI</strong><br>
-        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"><br><br>
-        <strong>DB</strong><br>
-        <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"><br><br>
-        <strong>Design</strong><br>
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"><br><br>
-        <strong>Documentation</strong><br>
-        <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-        <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"><br><br>
-        <strong>Frameworks/Libraries</strong><br>
-          <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-            <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
-          <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
-          <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-        <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
-        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-        <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-        <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-        <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-        <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
-        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-        <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white"><br><br>
-        <strong>Hosting</strong><br>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"><br><br>
-        <strong>Languages</strong><br>
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-        <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
-        <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515"><br><br>
-        <strong>ORM</strong><br>
-        <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"><br><br>
-        <strong>Testing</strong><br>
-        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-        <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-        <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
-        <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B">
-        <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white"><br><br>
-        <strong>Version Control</strong><br>
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><br><br>
-                <strong>Collaboration</strong><br>
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">          
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"><br><br>
-        <strong>ETC</strong><br>
-        <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-        <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white">
-        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><br><br>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-         <a href=mailto:boon10034@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:boon10034@gmail.com"> </a>
-          </div>
-    <div style="text-align: left; display: flex; gap: 20px;"> 
-        
-## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&text=Welcome%20to%20my%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=38&desc=Frontend%20Developer%20%7C%20산업기능요원&descAlignY=58&descSize=16" />
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GiToon10100011&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiToon10100011&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff)
+<div align="center">
+  
+### 👋 안녕하세요! **Frontend Developer** 전진우 입니다
+
+**현재 병역특례 산업기능요원으로 프론트엔드 엔지니어를 준비하고 있습니다** ⭐
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+in+progress...;Exploring+Next.js+%26+TypeScript;Always+Learning!&center=true&width=500&height=40&color=667eea&vCenter=true&size=20" />
+
+<div align="left">
+
+```typescript
+const developer = {
+  name: "전진우",
+  interests: ["Frontend", "Backend", "InfoSec", "FinTech", "Web Security"],
+  currentlyLearning: ["Next.js", "TypeScript"],
+  current goal: "Full Stack Development",
+  status: "산업기능요원 준비중 🎯"
+};
+```
+
+</div
+</div>
+
+## 🛠️ **Tech Stack**
+
+<details>
+<summary><b>💻 Development Environment</b></summary>
+<br>
+
+**Browsers**
+<div>
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white">
+</div><br>
+
+**Editors**
+<div>
+  <img src="https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkN1cnNvcjwvdGl0bGU+PHBhdGggZD0iTTExLjkyNSAyNGwxMC40MjUtNi0xMC40MjUtNkwxLjUgMThsMTAuNDI1IDZ6IiBmaWxsPSJ1cmwoI2xvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCkiPjwvcGF0aD48cGF0aCBkPSJNMjIuMzUgMThWNkwxMS45MjUgMHYxMmwxMC40MjUgNnoiIGZpbGw9InVybCgjbG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xKSI+PC9wYXRoPjxwYXRoIGQ9Ik0xMS45MjUgMEwxLjUgNnYxMmwxMC40MjUtNlYweiIgZmlsbD0idXJsKCNsb2JlLWljb25zLWN1cnNvcnVuZGVmaW5lZC1maWxsLTIpIj48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZMMTEuOTI1IDI0VjEyTDIyLjM1IDZ6IiBmaWxsPSIjNTU1Ij48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZsLTEwLjQyNSA2TDEuNSA2aDIwLjg1eiIgZmlsbD0iIzAwMCI+PC9wYXRoPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCIgeDE9IjExLjkyNSIgeDI9IjExLjkyNSIgeTE9IjEyIiB5Mj0iMjQiPjxzdG9wIG9mZnNldD0iLjE2IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9Ii4zOSI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY1OCIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuOCI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0ibG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xIiB4MT0iMjIuMzUiIHgyPSIxMS45MjUiIHkxPSI2LjAzNyIgeTI9IjEyLjE1Ij48c3RvcCBvZmZzZXQ9Ii4xODIiIHN0b3AtY29sb3I9IiMwMDAiIHN0b3Atb3BhY2l0eT0iLjMxIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIuNzE1IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9IjAiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMiIgeDE9IjExLjkyNSIgeDI9IjEuNSIgeTE9IjAiIHkyPSIxOCI+PHN0b3Agc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuNiI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY2NyIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuMjIiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+</div>
+
+</details>
+
+<details>
+<summary><b>⚡ Frontend & UI</b></summary>
+<br>
+
+**Core Technologies**
+<div>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div><br>
+
+**Styling & Design**
+<div>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div><br>
+
+**State Management & Utils**
+<div>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
+</div>
+
+</details>
+
+<details>
+<summary><b>🚀 Backend & Database</b></summary>
+<br>
+
+**Runtime & Framework**
+<div>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+</div><br>
+
+**Database & ORM**
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+</div><br>
+
+</details>
+
+<details>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
+**Build Tools & Package Managers**
+<div>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+</div><br>
+
+**Testing**
+<div>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B">
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+</div><br>
+
+**CI/CD & Hosting**
+<div>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</div>
+
+</details>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GiToon10100011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiToon10100011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiToon10100011&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9)
 
 </div>
 
----
+## 🌟 **Highlights**
 
-# Blog
+<div align="center">
 
-🔧 **Currently W.I.P.**
+### 💡 **Current Focus**
+Next.js + TypeScript로 풀스택 개발 역량 강화 중
 
-<a href="https://gitoon10100011.github.io/" target="_blank">https://gitoon10100011.github.io/</a>
+### 📚 **Career Goals**
+```
+Frontend Mastery → Backend Integration → Full Stack → DevOps → DevSecOps → CyberSecurity Engineer
+```
 
+</div>
 
-    
+## 📝 **Blog & Portfolio**
+
+<div align="center">
+  
+🔧 **Currently Building...**
+
+<a href="https://gitoon10100011.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-667eea?style=for-the-badge&logo=github&logoColor=white&link=https://gitoon10100011.github.io/"/>
+</a><br>
+
+*개발 여정과 학습 내용을 마치 문서형식으로 정리하여 MDN처럼 누구나 접근할 수 있고 확인할 수 있는 공간을 준비중입니다.*
+
+</div>
+
+## 📬 **Get In Touch**
+
+<div align="center">
+  
+<a href="mailto:boon10034@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/GiToon10100011">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+</div>
