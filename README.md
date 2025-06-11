@@ -17,7 +17,7 @@
 ```typescript
 const developer = {
   name: "전진우",
-  interests: ["Frontend", "Backend", "InfoSec", "FinTech", "Web Security"],
+  interests: ["Frontend", "Backend", "InfoSec", "FinTech", "CyberSecurity"],
   currentlyLearning: ["Next.js", "TypeScript"],
   currentGoal: "Full Stack Development",
   status: "산업기능요원 준비중 🎯"
