@@ -1,201 +1,308 @@
+<!-- ============================================= -->
+<!--               HEADER / HERO                   -->
+<!-- ============================================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&text=Welcome%20to%20my%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jinu%20Jon&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%C2%B7%20Exploring%20the%20Stack%20Top-Down&descSize=16&descAlignY=58&animation=fadeIn" />
 </div>
 
 <div align="center">
-  
-### 👋 안녕하세요! **Frontend Developer** 전진우 입니다
 
-**현재 병역특례 산업기능요원으로 프론트엔드 엔지니어를 준비하고 있습니다** ⭐
+  <a href="mailto:boon10034@gmail.com"><img src="https://img.shields.io/badge/-boon10034%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/GiToon10100011"><img src="https://img.shields.io/badge/-GiToon10100011-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://gitoon10100011.github.io/"><img src="https://img.shields.io/badge/-Blog-667eea?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GiToon10100011&style=flat-square&color=667eea&label=Profile+Views" />
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+in+progress...;Exploring+Next.js+%26+TypeScript;Always+Learning!&center=true&width=500&height=40&color=667eea&vCenter=true&size=20" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=580&lines=Curious+about+how+things+actually+work.;From+frameworks+down+to+the+metal.;Systems+%26+Security+enthusiast." />
+</div>
 
-<div align="left">
+<br>
 
-```typescript
-const developer = {
-  name: "전진우",
-  interests: ["Frontend", "Backend", "InfoSec", "FinTech", "CyberSecurity"],
-  currentlyLearning: ["Next.js", "TypeScript"],
-  currentGoal: "Full Stack Development",
-  status: "산업기능요원 준비중 🎯"
+---
+
+<!-- ============================================= -->
+<!--                  ABOUT                        -->
+<!-- ============================================= -->
+
+## <samp>&nbsp;&nbsp;01&nbsp;&nbsp;/&nbsp;&nbsp;About</samp>
+
+<table cellpadding="18" cellspacing="0">
+<tr>
+<td width="58%" valign="top">
+
+<br>
+
+세 번의 프론트엔드 부트캠프를 거치며 웹 생태계를 익혔고, 그 과정에서 자연스럽게 백엔드와 인프라로 시야가 넓어졌습니다.
+
+지금 가장 흥미를 느끼는 영역은 **추상화 아래에서 실제로 일어나는 일들**입니다. 라이브러리를 사용하는 법보다 그것이 왜 그렇게 동작하는지, 코드가 패킷이 되어 나가기까지의 여정, 시스템 콜이 커널에서 처리되는 방식 같은 것들이요.
+
+진로는 아직 확정 짓지 않았지만 방향은 분명합니다 — **시스템 프로그래밍** 또는 **보안**. 그 전까지는 스택의 위에서 아래로 천천히 내려가며 기초를 단단히 다지는 중입니다.
+
+<br>
+
+</td>
+<td width="42%" valign="top">
+
+<br>
+
+```ts
+const me = {
+  status:    "CS Undergrad · Year 3",
+  path:      "Frontend → Backend → ?",
+  exploring: ["OS internals",
+              "Networks",
+              "Compilers"],
+  goal:      "Systems / Security",
+  motto:     "Understand, don't memorize",
 };
 ```
 
-</div
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GiToon&style=flat-square&color=blueviolet" alt="visit counter" />
-</p>
-
-## 🛠️ **Tech Stack**
-
-<details>
-<summary><b>💻 Development Environment</b></summary>
 <br>
 
-**Browsers**
-<div>
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
-  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white">
-</div><br>
+</td>
+</tr>
+</table>
 
-**Editors**
-<div>
-  <img src="https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkN1cnNvcjwvdGl0bGU+PHBhdGggZD0iTTExLjkyNSAyNGwxMC40MjUtNi0xMC40MjUtNkwxLjUgMThsMTAuNDI1IDZ6IiBmaWxsPSJ1cmwoI2xvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCkiPjwvcGF0aD48cGF0aCBkPSJNMjIuMzUgMThWNkwxMS45MjUgMHYxMmwxMC40MjUgNnoiIGZpbGw9InVybCgjbG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xKSI+PC9wYXRoPjxwYXRoIGQ9Ik0xMS45MjUgMEwxLjUgNnYxMmwxMC40MjUtNlYweiIgZmlsbD0idXJsKCNsb2JlLWljb25zLWN1cnNvcnVuZGVmaW5lZC1maWxsLTIpIj48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZMMTEuOTI1IDI0VjEyTDIyLjM1IDZ6IiBmaWxsPSIjNTU1Ij48L3BhdGg+PHBhdGggZD0iTTIyLjM1IDZsLTEwLjQyNSA2TDEuNSA2aDIwLjg1eiIgZmlsbD0iIzAwMCI+PC9wYXRoPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMCIgeDE9IjExLjkyNSIgeDI9IjExLjkyNSIgeTE9IjEyIiB5Mj0iMjQiPjxzdG9wIG9mZnNldD0iLjE2IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9Ii4zOSI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY1OCIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuOCI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0ibG9iZS1pY29ucy1jdXJzb3J1bmRlZmluZWQtZmlsbC0xIiB4MT0iMjIuMzUiIHgyPSIxMS45MjUiIHkxPSI2LjAzNyIgeTI9IjEyLjE1Ij48c3RvcCBvZmZzZXQ9Ii4xODIiIHN0b3AtY29sb3I9IiMwMDAiIHN0b3Atb3BhY2l0eT0iLjMxIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIuNzE1IiBzdG9wLWNvbG9yPSIjMDAwIiBzdG9wLW9wYWNpdHk9IjAiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImxvYmUtaWNvbnMtY3Vyc29ydW5kZWZpbmVkLWZpbGwtMiIgeDE9IjExLjkyNSIgeDI9IjEuNSIgeTE9IjAiIHkyPSIxOCI+PHN0b3Agc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuNiI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY2NyIgc3RvcC1jb2xvcj0iIzAwMCIgc3RvcC1vcGFjaXR5PSIuMjIiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-</div>
-
-</details>
-
-<details>
-<summary><b>⚡ Frontend & UI</b></summary>
 <br>
 
-**Core Technologies**
-<div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</div><br>
+---
 
-**Styling & Design**
-<div>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</div><br>
+<!-- ============================================= -->
+<!--                 TECH STACK                    -->
+<!-- ============================================= -->
 
-**State Management & Utils**
-<div>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
-</div>
+## <samp>&nbsp;&nbsp;02&nbsp;&nbsp;/&nbsp;&nbsp;Tech Stack</samp>
 
-</details>
-
-<details>
-<summary><b>🚀 Backend & Database</b></summary>
 <br>
 
-**Runtime & Framework**
-<div>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-</div><br>
+<table cellpadding="18" cellspacing="10">
+<tr>
+<td width="50%" valign="top">
 
-**Database & ORM**
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-</div><br>
-
-</details>
-
-<details>
-<summary><b>🔧 DevOps & Tools</b></summary>
 <br>
 
-**Build Tools & Package Managers**
-<div>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-</div><br>
+#### &nbsp;◆&nbsp; Frontend
 
-**Testing**
-<div>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B">
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white">
-</div><br>
+<br>
 
-**CI/CD & Hosting**
-<div>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-</details>
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📊 **GitHub Analytics**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![RHF](https://img.shields.io/badge/Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+
+<br>
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+#### &nbsp;◆&nbsp; Backend & Data
+
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+<br>
+<br>
+
+#### &nbsp;◆&nbsp; DevOps & Cloud
+
+<br>
+
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+<br>
+<br>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<br>
+
+#### &nbsp;◆&nbsp; Tooling
+
+<br>
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+<br>
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+#### &nbsp;◆&nbsp; Environment
+
+<br>
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+
+![Arc](https://img.shields.io/badge/Arc-FCC7CD?style=flat-square&logoColor=black)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
+
+<br>
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ============================================= -->
+<!--                  ROADMAP                      -->
+<!-- ============================================= -->
+
+## <samp>&nbsp;&nbsp;03&nbsp;&nbsp;/&nbsp;&nbsp;Roadmap</samp>
+
+<br>
 
 <div align="center">
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GiToon10100011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiToon10100011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiToon10100011&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiToon10100011&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true"/>
-
-</div>
-
-## 🌟 **Highlights**
-
-<div align="center">
-
-### 💡 **Current Focus**
-Next.js + TypeScript로 풀스택 개발 역량 강화 중
-
-### 📚 **Career Goals**
-```
-Frontend Mastery → Backend Integration → Full Stack → DevOps → DevSecOps → CyberSecurity Engineer
-```
-
-</div>
-
-## 📝 **Blog & Portfolio**
-
-<div align="center">
-  
-🔧 **Currently Building...**
-
-<a href="https://gitoon10100011.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-667eea?style=for-the-badge&logo=github&logoColor=white&link=https://gitoon10100011.github.io/"/>
-</a><br><br>
-
-<sub style="color: #6a737d;">개발 여정과 학습 내용을 마치 문서형식으로 정리하여 MDN처럼 누구나 접근할 수 있고 확인할 수 있는 공간을 준비중입니다.</sub>
+<table cellpadding="12" cellspacing="6">
+  <tr>
+    <td align="center" width="16.66%"><b>Frontend</b></td>
+    <td align="center" width="16.66%"><b>Backend</b></td>
+    <td align="center" width="16.66%"><b>Full&nbsp;Stack</b></td>
+    <td align="center" width="16.66%"><b>DevOps</b></td>
+    <td align="center" width="16.66%"><b>DevSecOps</b></td>
+    <td align="center" width="16.66%"><b>Security</b></td>
+  </tr>
+  <tr>
+    <td align="center">█████████</td>
+    <td align="center">██████░░░</td>
+    <td align="center">████░░░░░</td>
+    <td align="center">██░░░░░░░</td>
+    <td align="center">░░░░░░░░░</td>
+    <td align="center">░░░░░░░░░</td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Comfortable</sub></td>
+    <td align="center"><sub>Learning</sub></td>
+    <td align="center"><sub>Practicing</sub></td>
+    <td align="center"><sub>Exploring</sub></td>
+    <td align="center"><sub>Ahead</sub></td>
+    <td align="center"><sub>The&nbsp;Goal</sub></td>
+  </tr>
+</table>
 
 </div>
 
-## 📬 **Get In Touch**
+<br>
+
+---
+
+<!-- ============================================= -->
+<!--                  ANALYTICS                    -->
+<!-- ============================================= -->
+
+## <samp>&nbsp;&nbsp;04&nbsp;&nbsp;/&nbsp;&nbsp;Analytics</samp>
+
+<br>
 
 <div align="center">
-  
-<a href="mailto:boon10034@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+
+<a href="https://github.com/GiToon10100011">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiToon10100011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/GiToon10100011">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiToon10100011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
 </a>
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiToon10100011&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiToon10100011&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true&radius=8" />
+
 </div>
+
+<br>
+
+---
+
+<!-- ============================================= -->
+<!--                  CONTRIB                      -->
+<!-- ============================================= -->
+
+## <samp>&nbsp;&nbsp;05&nbsp;&nbsp;/&nbsp;&nbsp;Contribution</samp>
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
-</div>
-
-## Before you go, Check out my cute little snake 😎
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GiToon10100011/GiToon10100011/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<br>
+
+---
+
+<!-- ============================================= -->
+<!--                  FOOTER                       -->
+<!-- ============================================= -->
+
+<div align="center">
+
+<sub>
+
+  <samp>Currently building a documentation-style blog &mdash; learning in public.</samp>
+
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+
+</div>
