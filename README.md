@@ -246,7 +246,7 @@ const me = {
 
 <div align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GiToon10100011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
+![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=GiToon10100011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
 
 <br><br>
 
